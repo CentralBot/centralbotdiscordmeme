@@ -1,0 +1,7 @@
+discord.py
+fortnite
+asyncio
+aiohttp
+youtube_dl
+PyNaCl
+pickle
