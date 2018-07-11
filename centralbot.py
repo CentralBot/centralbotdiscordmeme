@@ -2,7 +2,6 @@ import os
 import discord
 from discord import Game
 from discord.ext.commands import Bot
-from bs4 import BeautifulSoup
 from pfaw import Fortnite, Platform, Mode
 fortnite = Fortnite(fortnite_token='ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ=', launcher_token='MzRhMDJjZjhmNDQxNGUyOWIxNTkyMTg3NmRhMzZmOWE6ZGFhZmJjY2M3Mzc3NDUwMzlkZmZlNTNkOTRmYzc2Y2Y=',
                     password='Ho#F&NXbkQqkt95K5$Rw', email='fortniteapi@protonmail.com') #working 7/10/2018
