@@ -1,1 +1,1 @@
-worker: main.py
+worker: centralbot.py
