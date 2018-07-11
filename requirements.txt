@@ -4,4 +4,4 @@ asyncio
 aiohttp
 youtube_dl
 PyNaCl
-pickle
+
