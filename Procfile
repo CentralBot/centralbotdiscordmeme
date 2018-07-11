@@ -1,1 +1,1 @@
-worker: centralbot.py
+worker: python centralbot.py
